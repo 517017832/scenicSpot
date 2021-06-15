@@ -1,0 +1,9 @@
+
+.bg{
+	height: 100%;
+}
+.content {
+	padding: 0 0 40px 0;
+	height: 100%;
+}
+
